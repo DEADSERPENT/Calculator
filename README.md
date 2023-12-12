@@ -21,9 +21,9 @@ The project consists of the following main files:
 
 1. Clone the repository:
 
-   bash
+   ```bash
    git clone https://github.com/DEADSERPENT/Calculator.git
-   ```
+   
 
 3. Open the index.html file in a web browser.
 
